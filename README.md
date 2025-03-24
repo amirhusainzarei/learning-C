@@ -30,7 +30,7 @@ Each level contains a set of problems and solutions, along with explanations and
 ### Problems:
 1. **Hello World and Basic I/O**  
    - [hello_world.c](src/basics/hello_world.c): A simple program to take user input and print it back.
-   - [file_reader.c](level1/file_reader.c): A program to read and print the contents of a file.
+   - [file_reader.c](src/basics/file_reader.c): A program to read and print the contents of a file.
 
 2. **Pointers and Arrays**  
    - [pointer_swap.c](level1/pointer_swap.c): Swap two integers using pointers.

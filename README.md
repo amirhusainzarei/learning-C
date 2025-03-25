@@ -34,7 +34,7 @@ Each level contains a set of problems and solutions, along with explanations and
 
 2. **Pointers and Arrays**  
    - [pointer_swap.c](src/basics/pointer_swap.c): Swap two integers using pointers.
-   - [array_reverse.c](level1/array_reverse.c): Reverse an array in place.
+   - [array_reverse.c](src/basics/array_reverse.c): Reverse an array in place.
 
 3. **Memory Management Basics**  
    - [dynamic_array.c](level1/dynamic_array.c): Dynamically allocate and free an array of integers.

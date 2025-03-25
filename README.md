@@ -33,7 +33,7 @@ Each level contains a set of problems and solutions, along with explanations and
    - [file_reader.c](src/basics/file_reader.c): A program to read and print the contents of a file.
 
 2. **Pointers and Arrays**  
-   - [pointer_swap.c](level1/pointer_swap.c): Swap two integers using pointers.
+   - [pointer_swap.c](src/basics/pointer_swap.c): Swap two integers using pointers.
    - [array_reverse.c](level1/array_reverse.c): Reverse an array in place.
 
 3. **Memory Management Basics**  
